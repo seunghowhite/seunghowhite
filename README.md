@@ -1,7 +1,7 @@
 ### 👏 Hi I'm Seungho
 - 🌱안녕하세요?
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghowhite)](https://github.com/seunghowhite/github-readme-stats)
 <!--
 **seunghowhite/seunghowhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
