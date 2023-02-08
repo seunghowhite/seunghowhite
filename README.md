@@ -1,6 +1,4 @@
 
-
-
 <div align=center><h1>👋 Hi, I’m seungho </h1></div>
 
 <!-- <div align=center>
