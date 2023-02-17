@@ -1,5 +1,5 @@
 
-<div align=center><h1>👋 Hi, I’m seungho </h1></div>
+<div align=center><h1>👋 Hi, I’m seungho</div>
 
 <!-- <div align=center>
 
@@ -7,7 +7,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghowhite&layout=compact)](https://github.com/metleeha) -->
 
-<hr>
+
 
 
 
