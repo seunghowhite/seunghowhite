@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Seungho&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:120A8F,50:c779d0,100:4bc0c8&height=200&text=Seungho&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 
 <div align="end">
@@ -6,6 +6,9 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghowhite&count_bg=%23000000&title_bg=%230477FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
+
+
+<h2>Hi I'm seungho 🖐️</h2>
 
 <div >
  <a href="mailto:hey.qortmdgh0320@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -32,6 +35,6 @@ studying ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-t
 
  <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungho)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungho&show_icons=true&theme=dark)
 <br/>
