@@ -36,5 +36,8 @@ studying ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-t
  <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghowhite&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghowhite&show_icons=true&theme=dark&width=400&height=200)
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghowhite&layout=compact&width=400"> -->
+
+
 <br/>
