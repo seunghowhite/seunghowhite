@@ -36,5 +36,5 @@ studying ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-t
  <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungho&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghowhite&show_icons=true&theme=dark)
 <br/>
