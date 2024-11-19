@@ -6,7 +6,7 @@
 <p>Front-end Developer | Passionate about coding and design</p>
 </div>
 
-<h1 align="left">💻 My Tech Stack</h1>
+<h1 align="left"> My Tech Stack</h1>
 
 <div align="left">
 <h3>🌐 Frontend</h3>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </div>
 
-<h1 align="left">📊 GitHub Stats</h1>
+<h1 align="left"> GitHub Stats</h1>
 
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=seunghowhite&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="45%">
