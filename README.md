@@ -1,58 +1,57 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:120A8F,50:c779d0,100:4bc0c8&height=200&text=Seungho&fontColor=ffffff&fontAlign=70&fontAlignY=40&animation=twinkling)
 
+## 🍀 About Me
 
+<p>안녕하세요, 프론트엔드 개발자 백승호입니다.</p>
+<p>실패에 낙담하는 대신, 긍정적인 태도로 먼저 부딪히며 도전합니다.</p>
+<p>자원 재활용과 자동화에 특히 흥미를 느끼고 있습니다.</p>
 
-<div align="left">
-<p>Front-end Developer | Passionate about coding and design</p>
-</div>
-
-<h1 align="left"> My Tech Stack</h1>
-
-<div align="left">
-<h3>🌐 Frontend</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
-  <img src="https://img.shields.io/badge/Recoil-007af4?style=for-the-badge&logo=Recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-
-<h3>🔧 Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
-
-<h3>🛠 Backend & Others</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-</div>
-
-<h1 align="left"> GitHub Stats</h1>
-
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=seunghowhite&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seunghowhite&theme=dark&hide_border=true" width="45%">
-</div>
-
-<div align="">
+<p>
+  <a href="https://seunghowhite.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:qortmdgh0320@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qortmdgh0320@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghowhite&count_bg=%23000000&title_bg=%230477FB&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-  <a href="mailto:hey.qortmdgh0320@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/seunghowhite">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+</p>
+
+## 💻 Tech Stacks
+
+**Languages**
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-131418?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/TypeScript-131418?style=for-the-badge&logo=typescript&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/HTML5-131418?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-131418?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</div><br />
+
+**Frameworks / Library**
+<div>
+  <img src="https://img.shields.io/badge/React-131418?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-131418?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React_Native-131418?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-131418?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/styled--components-131418?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
+  <img src="https://img.shields.io/badge/React_Query-131418?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+  <img src="https://img.shields.io/badge/Recoil-131418?style=for-the-badge&logo=recoil&logoColor=007AF4" />
+  <img src="https://img.shields.io/badge/Redux-131418?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/ESLint-131418?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
+  <img src="https://img.shields.io/badge/Prettier-131418?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
 </div>
 
-<p align="left">✨ Last Updated: 19/11/2024 15:00:20 UTC</p>
+<br />
+
+**Others**
+<div>
+  
+  <img src="https://img.shields.io/badge/Git-131418?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-131418?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Ubuntu-131418?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/Jenkins-131418?style=for-the-badge&logo=jenkins&logoColor=D24939" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-131418?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" />
+</div>
+<br />
+
+<div align="right">
+  <p>✨ Last Updated: 19/11/2024 </p>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghowhite&count_bg=%23000000&title_bg=%230477FB&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Hits">
+  </a>
+</div>
+
