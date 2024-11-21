@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/Jenkins-131418?style=for-the-badge&logo=jenkins&logoColor=D24939" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-131418?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" />
 </div>
-<br />
 
 <div align="right">
   <p>✨ Last Updated: 19/11/2024 </p>
