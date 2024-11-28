@@ -8,7 +8,6 @@
 <p>
   <a href="https://seunghowhite.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:qortmdgh0320@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qortmdgh0320@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  
 </p>
 
 ## 💻 Tech Stacks
