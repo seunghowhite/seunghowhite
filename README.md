@@ -48,8 +48,5 @@
 
 <div align="right">
   <p>✨ Last Updated: 19/11/2024 </p>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghowhite&count_bg=%23000000&title_bg=%230477FB&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Hits">
-  </a>
 </div>
 
